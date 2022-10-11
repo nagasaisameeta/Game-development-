@@ -2,4 +2,4 @@ ihookfiles: ./hooks.js
 language: nodejs
 config: ./dredd.yml
 blueprint: marvel.apib
-endpoint: 'https://gateway.marvel.com:443/v1/public/'
+endpoint: 'https://gateway.marvel.com:44'
